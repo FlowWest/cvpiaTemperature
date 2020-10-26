@@ -1,7 +1,4 @@
-**Final release of CVPIA temperature modeling under FlowWest&#39;s GitHub Organization**.[Future releases will occur on the](https://github.com/CVPIA-OSC/)[Central Valley Project Improvement Act - Open Science Collaborative](https://github.com/CVPIA-OSC/). Temperature modeling was used by the Science Integration Team to support Decision Support Models as part of [CVPIA Structured Decision Making](http://cvpia.scienceintegrationteam.com/). A summary of the priorities and information needs for management of anadromous fish in the Central Valley that resulted from this process is available in the [Near-term Restoration Strategy FY2021-2025.](https://drive.google.com/file/d/1jpLMYGkuRa-wsjS3gW6mrWmtr9ZqvQnH/view?usp=sharing)
-
-
-This repository remains posted for archive purposes. The temperature inputs were used to inform FY2017-2019 recommendations.
+Development on CVPIA DSM temperature inputs has moved to [Central Valley Project Improvement Act - Open Science Collaborative](https://github.com/CVPIA-OSC/). This repository remains posted for archive purposes. The temperature inputs were used to inform FY2019-20 recommendations. Temperature inputs were developed through a formal Structured Decision Making process by the [CVPIA Science Integration Team](http://cvpia.scienceintegrationteam.com/).
 
 -----
 <img src="cvpia_logo.jpg" align="right" width="40%"/>
